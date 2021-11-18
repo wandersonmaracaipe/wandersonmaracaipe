@@ -25,7 +25,9 @@
 <br />
 <br />
 
-<a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonmaracaipe&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/></a> <a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonmaracaipe&layout=compact&langs_count=10&theme=buefy&hide_border=true"/>
+| <a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonmaracaipe&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/></a> | <a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonmaracaipe&layout=compact&langs_count=10&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
+
 
   
 </div>
