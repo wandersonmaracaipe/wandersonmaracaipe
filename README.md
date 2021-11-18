@@ -24,9 +24,8 @@
 <br />
 <br />
 
-| <a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonmaracaipe&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/></a> | <a href="https://github.com/wandersonmaracaipe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonmaracaipe&layout=compact&langs_count=10&theme=buefy&hide_border=true"/> |
-| ------------- | ------------- |
-  
+ <a href="https://github.com/wandersonmaracaipe"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonmaracaipe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/></a>  <a href="https://github.com/wandersonmaracaipe"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonmaracaipe&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
 <br />
 <br />
   
@@ -35,3 +34,4 @@
   <a href = "mailto:wandersonmaracaipe@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wandersonmaracaipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
