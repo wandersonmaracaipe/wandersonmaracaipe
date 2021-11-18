@@ -1,6 +1,6 @@
 
 
-## Olá, eu sou a Júlia Sobral.  
+## Olá, eu sou o Wanderson Maracaipe  
 - 💻 Eu sou Desenvolvedor FullStack 
 - 📚 Estudando Angular, .NET, PHP, Laravel/Phalcon e Delphi
 - 📫 Contato: wandersonmaracaipe@hotmail.com
@@ -13,7 +13,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonmaracaipe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ju-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Wm-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ju-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
