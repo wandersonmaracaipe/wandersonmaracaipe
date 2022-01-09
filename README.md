@@ -5,12 +5,13 @@
 - 💻 I am FullStack Developer
 - 💼 Front End Web Developer at [Maxdata](https://maxdatasistemas.com.br/)
 - ❤️ I love PHP/Laravel and TypeScript
-- 📚 Studying and improving in Angular, .NET Core, PHP, Laravel/Phalcon and Delphi
+- 📚 Studying and improving in Java, Typescript, .NET Core, PHP, Laravel/Phalcon and Delphi
 - 📫 Contact: wandersonmaracaipe@hotmail.com
 
 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
