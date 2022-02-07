@@ -2,7 +2,7 @@
 **About me**
 
 ## Hi, I'm Wanderson Maracaipe  
-- 💻 I am FullStack Developer
+- 💻 I am Full-Stack Developer
 - 💼 Full-Stack Developer at [VALUOR](https://www.valuor.com.br/)
 - ❤️ I love PHP/Laravel and TypeScript
 - 📚 Studying and improving in Java, Typescript, .NET Core, PHP, Laravel/Phalcon and Delphi
