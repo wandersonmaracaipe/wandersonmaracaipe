@@ -5,7 +5,7 @@
 - 💻 I am Full-Stack Developer
 - 💼 Full-Stack Developer at [VALUOR](https://www.valuor.com.br/)
 - ❤️ I love PHP/Laravel and TypeScript
-- 📚 Studying and improving in Java, Typescript, .NET Core, PHP, Laravel/Phalcon and Delphi
+- 📚 Studying and improving in Java, Typescript, PHP, Laravel/Phalcon and Delphi
 - 📫 Contact: wanderson@valuor.com.br
 
 **Languages and Tools:**
